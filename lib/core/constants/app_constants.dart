@@ -6,7 +6,7 @@ class AppConstants {
   static const String appTagline = 'Build Your Dream Career';
 
   // API Keys (replace with actual keys via env)
-  static const String openAiApiKey = String.fromEnvironment('REMOVED_KEY');
+  static const String openAiApiKey = String.fromEnvironment('OPENAI_KEY');
   static const String revenueCatApiKeyAndroid = String.fromEnvironment('REVENUECAT_ANDROID_KEY');
   static const String revenueCatApiKeyIos = String.fromEnvironment('REVENUECAT_IOS_KEY');
   static const String stripePublishableKey = String.fromEnvironment('STRIPE_PUBLISHABLE_KEY');
