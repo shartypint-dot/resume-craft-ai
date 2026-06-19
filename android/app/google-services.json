@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "704576832215",
+    "project_id": "kudka-cc7e4",
+    "storage_bucket": "kudka-cc7e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704576832215:android:5f264e7e89454151e7a692",
+        "android_client_info": {
+          "package_name": "com.essencewaretech.resume_craft_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704576832215-3jp9ob5htjs6tn6k8odvqt5aqh3uqncf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUAFMuluPnxUT3tiouRhh2owOXOJQ-N1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704576832215-3jp9ob5htjs6tn6k8odvqt5aqh3uqncf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704576832215-5dvm5thk234gu0g1pm68l4o0dv1p10bf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storyVerse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704576832215:android:96c0bd7d451a01d9e7a692",
+        "android_client_info": {
+          "package_name": "com.example.story_verse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704576832215-3jp9ob5htjs6tn6k8odvqt5aqh3uqncf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUAFMuluPnxUT3tiouRhh2owOXOJQ-N1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704576832215-3jp9ob5htjs6tn6k8odvqt5aqh3uqncf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704576832215-5dvm5thk234gu0g1pm68l4o0dv1p10bf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storyVerse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
